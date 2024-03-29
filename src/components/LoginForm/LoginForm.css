@@ -9,7 +9,7 @@
 }
 .wrapper form{
     padding: 37px;
-    background-color: rgba(9, 9, 11, 0.362);
+    background: url('./pen-and-paper-online-bookstore/src/components/Assets/pexels-photo-2663851.jpeg');
     border-radius: 40px;
     color: #fff;
     display: flex;
@@ -52,7 +52,8 @@
     margin: 5px 0;
     
 }
-.wrapper form button.hover{
+.remember-forgot a:hover {
+    text-decoration: underline;
     
 }
 */

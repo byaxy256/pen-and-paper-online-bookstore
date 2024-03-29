@@ -1,3 +1,4 @@
+/*
 import React from "react";
 import "./chart.css";
 const chart = () => {
@@ -5,3 +6,4 @@ const chart = () => {
 };
 
 export default chart;
+*/

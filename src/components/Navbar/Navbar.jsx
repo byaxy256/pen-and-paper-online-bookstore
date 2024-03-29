@@ -1,3 +1,4 @@
+/*
 import "./NavBar.css";
 
 const NavBar = () => {
@@ -117,3 +118,4 @@ const NavBar = () => {
   </nav>;
 };
 export default NavBar;
+*/
